@@ -1,0 +1,10 @@
+{
+  "cache": "filesystem",
+  "cacheConfig": {
+    "cacheDurationMinutes": 60,
+    "cacheMaxEntries": 1000
+  },
+  "renderOnly": [
+    "https://freelancehunt.com"
+  ]
+}
