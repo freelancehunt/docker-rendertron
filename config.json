@@ -5,6 +5,11 @@
     "cacheMaxEntries": 1000
   },
   "renderOnly": [
-    "https://freelancehunt.com"
+    "https://freelancehunt.by",
+    "https://freelancehunt.com",
+    "https://freelancehunt.kz",
+    "https://freelancehunt.md",
+    "https://freelancehunt.ru",
+    "https://freelancehunt.ua"
   ]
 }
