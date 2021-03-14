@@ -1,10 +1,11 @@
 {
   "cache": "filesystem",
   "cacheConfig": {
-    "cacheDurationMinutes": 60,
-    "cacheMaxEntries": 1000
+    "cacheDurationMinutes": 120,
+    "cacheMaxEntries": 10000
   },
   "renderOnly": [
+    "https://en.freelancehunt.com",
     "https://freelancehunt.by",
     "https://freelancehunt.com",
     "https://freelancehunt.kz",
